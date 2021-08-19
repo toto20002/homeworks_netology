@@ -1,6 +1,17 @@
 # Домашнее задание к занятию «1.1. Введение в DevOps»
-- (netology.tf) – terraform
-- (netology.sh) – bash
-- (netology.md) – markdown
-- (netology.yaml) – yaml
-- (netology.jsonnet) – jsonnet
+
+ - Terraform: 
+ 
+ ![Терраформ](img/terraform.png)
+- Bash: 
+
+ ![bahs](img/bash.png)
+- Markdown: 
+
+![markdown](img/markdown.png)
+- Yaml: 
+
+![Yaml](img/yaml.png)
+- Jsonnet: 
+
+![Jsonnet](img/jsonnet.png)
